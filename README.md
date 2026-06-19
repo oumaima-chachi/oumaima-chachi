@@ -1,3 +1,4 @@
+[oumaima-chachi_CV.pdf](https://github.com/user-attachments/files/29135368/oumaima-chachi_CV.pdf)
 <div align="center">
 
 # Hello World 👋
