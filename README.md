@@ -47,7 +47,8 @@ public:
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Oumaima-Chachi-Backend-Resume.pdf" target="_blank">
+  <a href="./Oumaima-Chachi_CV[oumaima-chachi_CV.pdf](https://github.com/user-attachments/files/29135562/oumaima-chachi_CV.pdf)
+.pdf" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Download%20My%20Resume-View%20CV-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
