@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Consulter mon CV](https://img.shields.io/badge/📄_Télécharger_mon_CV-FF5733?style=for-the-badge&logoColor=white)](https://github.com/user-attachments/files/29135846/resume.pdf)
+[![Mon CV](https://img.shields.io/badge/Mon__CV-resume.pdf-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/29135846/resume.pdf)
 
 # Hello World 👋
 
