@@ -1,60 +1,140 @@
-# Hi, I'm Oumaima Chachi 👋
+<div align="center">
 
-Software Engineering Student at 1337 School (UM6P, Rabat)
+# Hello World 👋
 
-## About Me
+### I'm Oumaima Chachi
 
-- Backend Development
-- Systems Programming
-- Linux & DevOps
-- Docker & Infrastructure
-- Problem Solving
+Software Engineering Student @ 1337 School (UM6P)
 
-## Technologies
+Backend Development • Systems Programming • Linux • DevOps
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=C+%7C+C%2B%2B+%7C+Python;Backend+Developer;Docker+%26+DevOps+Enthusiast;Linux+Lover;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```cpp
+class OumaimaChachi {
+public:
+    string role = "Software Engineering Student";
+    string school = "1337 School (UM6P)";
+    
+    vector<string> languages = {
+        "C",
+        "C++",
+        "Python"
+    };
+
+    vector<string> interests = {
+        "Backend Development",
+        "Systems Programming",
+        "Docker",
+        "Linux",
+        "DevOps"
+    };
+
+    string currentGoal =
+        "Building strong backend and infrastructure skills";
+};
+```
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
-- C
-- C++
-- Python
 
-### Backend
-- FastAPI
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
 
-### Databases
-- PostgreSQL
-- MariaDB
+### Backend & Databases
 
-### DevOps
-- Docker
-- Docker Compose
-- NGINX
-- Linux
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- Bash
-- Makefile
+### DevOps & Infrastructure
 
-## Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,github" />
+</p>
 
-### Inception
-Multi-container infrastructure using Docker, NGINX, MariaDB, WordPress, Docker Networks and Volumes.
+### Web
 
-### Minishell
-Unix shell implementation in C with process management, pipes and redirections.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### CPP Modules
-Object-oriented programming projects in C++.
+---
 
-## Currently Learning
+## 📂 Featured Projects
 
-- Docker
-- Backend Architecture
-- PostgreSQL
-- System Design
+### 🐳 Inception
 
-## Contact
+Docker-based infrastructure project featuring:
 
-📧 chachioumaima4@gmail.com
+* Docker Compose
+* NGINX
+* MariaDB
+* WordPress
+* Docker Networks
+* Docker Volumes
+* TLS/HTTPS
+
+---
+
+### 🖥️ Minishell
+
+Unix shell implementation built in C.
+
+Features:
+
+* Process Management
+* Pipes
+* Redirections
+* Environment Variables
+* Linux System Calls
+
+---
+
+### ⚙️ CPP Modules
+
+Object-Oriented Programming projects covering:
+
+* Inheritance
+* Polymorphism
+* Templates
+* Exception Handling
+* Memory Management
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Docker
+* FastAPI
+* PostgreSQL
+* System Design
+* Backend Architecture
+
+---
+
+## 📫 Connect With Me
+
+📧 [chachioumaima4@gmail.com](mailto:chachioumaima4@gmail.com)
+
+💻 GitHub: github.com/oumaima-chachi
+
+---
+
+<div align="center">
+
+### "First, solve the problem. Then, write the code."
+
+</div>
