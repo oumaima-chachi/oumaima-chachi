@@ -1,3 +1,4 @@
+[resume.pdf](https://github.com/user-attachments/files/29135846/resume.pdf)
 <div align="center">
 
 # Hello World 👋
