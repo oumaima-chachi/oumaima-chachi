@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Mon CV](https://img.shields.io/badge/Mon__CV-resume.pdf-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/29135846/resume.pdf)[resume.pdf](https://github.com/user-attachments/files/29159663/resume.pdf)
+
 
 # Hello World 👋
 
