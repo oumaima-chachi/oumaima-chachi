@@ -1,3 +1,4 @@
+[OUMAIMA_CHACHI.CV.pdf](https://github.com/user-attachments/files/29248973/OUMAIMA_CHACHI.CV.pdf)
 <p align="center">
   <a href="https://github.com/user-attachments/files/29244114/resume.pdf">
     <img src="https://img.shields.io/badge/Mon_CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
