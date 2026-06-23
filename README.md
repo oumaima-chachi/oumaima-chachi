@@ -1,6 +1,8 @@
-<div align="center">
-
-[![Mon CV](https://img.shields.io/badge/Mon__CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/29159663/resume.pdf)[resume.pdf](https://github.com/user-attachments/files/29244114/resume.pdf)
+<p align="center">
+  <a href="https://github.com/user-attachments/files/29244114/resume.pdf">
+    <img src="https://img.shields.io/badge/Mon_CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
+  </a>
+</p>
 
 # Hello World 👋
 
