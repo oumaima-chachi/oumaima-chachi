@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/files/29249092/OUMAIMA_CHACHI.CV.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/29249697/OUMAIMA_CHACHI.CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Mon_CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
   </a>
 </p>
