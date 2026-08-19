@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/files/29251970/OUMAIMA_CHACHI.CV.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/31225821/Stage_chachi.CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_My_CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
   </a>
 </p>
+
 
 
 # Hello World 👋
@@ -124,7 +125,6 @@ Object-Oriented Programming projects covering:
 
 * Advanced Docker
 * FastAPI
-* PostgreSQL
 * System Design
 * Backend Architecture
 
