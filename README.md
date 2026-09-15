@@ -2,9 +2,6 @@
   <a href="https://github.com/user-attachments/files/31225821/Stage_chachi.CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_My_CV-PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
   </a>
-  <a href="https://oumaima-chachi.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-Garden-4CAF50?style=for-the-badge&logo=globe&logoColor=white">
-  </a>
 </p>
 
 
